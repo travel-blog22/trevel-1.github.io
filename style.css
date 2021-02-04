@@ -5,6 +5,7 @@
 
 section {
     min-height: 100vh;
+    min-weidth: 135vh;
 }
 
 .header {
